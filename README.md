@@ -1,1 +1,1 @@
-# odin-recipes
+This is a simple practice project going over html basis and to practice Git. :)
